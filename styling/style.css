@@ -1,0 +1,22 @@
+@font-face {
+    font-family: taner_ardali;
+    src: url(../fonts/Taner-Ardali.ttf)
+}
+div {
+    color: white;
+}
+body {
+    background-color: #111111;
+    font-family: taner_ardali;
+    margin: 0;
+}
+
+.navigation {
+    position: absolute;
+    bottom: 0;
+}
+.navigation a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none; 
+}
